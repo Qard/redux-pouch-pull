@@ -1,0 +1,26 @@
+{
+  "name": "redux-pouch-pull",
+  "version": "1.0.0",
+  "description": "One-way live sync of pouchdb into redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "redux",
+    "pouchdb",
+    "sync",
+    "pull"
+  ],
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "ISC",
+  "dependencies": {
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "jest": "^17.0.3",
+    "memdown": "^1.2.4",
+    "pouchdb": "^6.0.7",
+    "redux": "^3.6.0"
+  }
+}
