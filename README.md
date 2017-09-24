@@ -1,5 +1,7 @@
 # redux-pouch-pull
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/redux-pouch-pull.svg)](https://greenkeeper.io/)
+
 This is a rewrite of [pouch-redux-middleware](https://github.com/pgte/pouch-redux-middleware)
 to only support one-way pull syncing.
 
